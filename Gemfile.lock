@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mustermann (3.0.0)
+    rack (3.0.8)
+    rack-protection (3.0.6)
+      rack
+    sinatra (3.1.0)
+      mustermann (~> 3.0)
+      rack (~> 3.0)
+      rack-protection (~> 3.0)
+      tilt
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sinatra
+
+BUNDLED WITH
+   2.5.6
